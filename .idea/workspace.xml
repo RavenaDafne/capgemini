@@ -4,55 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="465cf839-e25e-40f9-9652-35709111e5e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoCapgemini.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio02/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicioJava/ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicioJava/ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicioJava/ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicioJava/ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicioJava/ex05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicioJava/ex06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicioJava/ex07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicioJava/ex08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicioJava/ex09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicioJava/ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicioListaPOO01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicioListaPOO01/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/Exemplo15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/ExemploSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/Exercicio20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/Exercicio22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/Exercicio24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/PrimeiroExemplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/SegundoExemplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios04POO/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios04POO/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herança/Funcionarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herança/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herança/Motorista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herança/Vendedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/imc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/imc/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primeiraInterface/PrimeiraTela1.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primeiraInterface/PrimeiraTela1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetoTarefas/Main.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetoTarefas/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetoTarefas/controller/ProjectController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetoTarefas/controller/TaskController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetoTarefas/model/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetoTarefas/model/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetoTarefas/util/ConnectionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tela/ExTelaExercicio.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tela/ExTelaExercicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tela/PrimeiraTela.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tela/PrimeiraTela.java" afterDir="false" />
+    <list default="true" id="465cf839-e25e-40f9-9652-35709111e5e9" name="Changes" comment="Projeto e Tarefas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +20,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2PfOBB0tGJS7CLUlSgJBBZQ7peR" />
@@ -88,6 +47,11 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "advanced.settings"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main">
@@ -175,9 +139,44 @@
       <option name="presentableId" value="Default" />
       <updated>1683844532508</updated>
     </task>
+    <task id="LOCAL-00001" summary="Projeto e Tarefas">
+      <created>1687286332644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687286332644</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Projeto e Tarefas">
+      <created>1687286379853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687286379853</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Projeto e Tarefas">
+      <created>1687286503856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687286503856</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Projeto e Tarefas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto e Tarefas" />
   </component>
 </project>
